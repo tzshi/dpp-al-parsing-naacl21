@@ -13,5 +13,5 @@ setup(name='deppar',
                         'scipy',
                         'sklearn',
                         'tensorflow',
-                        'torch',
-                        'transformers==3.0.2'])
+                        'torch==1.7.1',
+                        'transformers==4.4.0'])
