@@ -1,0 +1,6 @@
+For all files that are not explicitly mentioned below:
+Copyright 2021 Bloomberg Finance L.P.
+Apache 2.0 License (LICENSES/Apache_2.0_License)
+
+deppar/adamw.py -- Tianze Shi, PyTorch authors, https://github.com/pytorch/pytorch, LICENSES/PyTorch
+deppar/attention.py -- Tianze Shi, AllenNLP authors, https://github.com/allenai/allennlp, LICENSES/Apache_2.0_License
